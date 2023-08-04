@@ -1,1 +1,2 @@
-# datacleaning
+# Description:
+This project is a Python-based data processing tool designed to extract data from an Oracle database, perform data transformations using business rules, generate an Excel file as output, and then send it via email to a specified recipient. Please note that this repository contains a beta version of the code, and the original code with confidential information has been withheld to ensure data security.
